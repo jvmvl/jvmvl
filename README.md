@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/C5616AQE7GJ_zzmPW2w/profile-displaybackgroundimage-shrink_350_1400/0/1639351083457?e=1707350400&v=beta&t=L79wVFEpK2vhoQNcJ17yrgbPuQFvlNXTqHWZVsAYpyg" width="" alt="Banner">
-
 - 👋 Hi, I’m @jvmvl
 - 👀 I’m interested in web & mobile development
 - 🌱 I’m currently learning reactjs
