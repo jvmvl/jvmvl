@@ -1,9 +1,6 @@
 # Hello, I'm Jamal CHAHIR 👋
 ## Full-Stack Developer | Laravel & Flutter Enthusiast 🚀
 
-![GitHub followers](https://img.shields.io/github/followers/jvmvl?style=social)
-
-
 ### About Me
 I'm a full-stack developer with a passion for building modern web and mobile applications. I specialize in **Laravel** for backend development and **Flutter** for creating cross-platform mobile apps. I love solving challenges and learning new technologies to deliver high-quality solutions. 
 
