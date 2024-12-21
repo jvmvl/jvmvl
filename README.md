@@ -48,9 +48,3 @@ Currently, I'm working on several exciting projects and always open to collabora
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats-xspider7s-projects.vercel.app/api/top-langs/?username=jvmvl&layout=donut)](https://github.com/jvmvl/github-readme-stats)
-
-
-### Let's Connect!
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jamalchahir@ehotmail.com) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jamalchahir) 
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/chahirjamal)
