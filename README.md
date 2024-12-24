@@ -17,13 +17,27 @@ Currently, I'm working on several exciting projects and always open to collabora
 #### **Currently Exploring**
 - 🛠️ **Frontend Frameworks**: ReactJS, VueJS
 - 🎨 **Styling**: TailwindCSS
-- 📂 **Databases**: MongoDB
+- 📂 **Databases**: MongoDB, PostgreSQL, Redis
 - 🚀 **DevOps & Deployment**: Docker
 - 🔥 **Mobile & Web Backend Services**: Firebase
 - 💻 **Programming Enhancements**: TypeScript
 - 📡 **APIs**: GraphQL
 
 <!--
+
+#### **Currently Exploring**
+- 🛠️ **Frontend Frameworks**: ReactJS, VueJS, Svelte
+- 🎨 **Styling**: TailwindCSS
+- 📂 **Databases**: MongoDB, PostgreSQL, Redis
+- 🚀 **DevOps & Deployment**: Docker, Kubernetes, GitHub Actions
+- 🔥 **Mobile & Web Backend Services**: Firebase
+- 💻 **Programming Enhancements**: TypeScript
+- 📡 **APIs**: GraphQL, WebSockets
+- 📈 **Testing & Debugging**: PHPUnit, Cypress, Postman/Newman
+- ⚡ **Advanced Concepts**: Microservices Architecture, Event-Driven Architecture
+- 🖌️ **Design Tools**: Figma, Material UI
+
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
