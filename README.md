@@ -6,13 +6,22 @@ I'm a full-stack developer with a passion for building modern web and mobile app
 
 Currently, I'm working on several exciting projects and always open to collaborating with fellow developers.
 
-<!--
-### Skills & Technologies
-- 🖥️ **Languages**: PHP, JavaScript, Dart
-- 🔧 **Frameworks & Tools**: Laravel, Flutter, Vue.js, Tailwind CSS
-- 🗄️ **Databases**: MySQL, PostgreSQL, SQLite
-- ⚡ **Other**: Git, GitHub, Docker, REST APIs, GraphQL, Firebase
 
+### Skills & Technologies
+#### **Core Skills**
+- 🖥️ **Languages**: PHP, JavaScript, Dart, HTML, XML, JSON
+- 🔧 **Frameworks & Tools**: Laravel, Flutter, jQuery, Bootstrap, WordPress
+- 🗄️ **Databases**: MySQL
+- ⚙️ **Other**: REST APIs, Cron, Git, GitHub
+
+#### **Currently Exploring**
+- 🛠️ **Frontend Frameworks**: ReactJS, VueJS
+- 🎨 **Styling**: TailwindCSS
+- 📂 **Databases**: MongoDB
+- 🚀 **DevOps & Deployment**: Docker
+- 🔥 **Mobile & Web Backend Services**: Firebase
+- 💻 **Programming Enhancements**: TypeScript
+- 📡 **APIs**: GraphQL
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
