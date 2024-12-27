@@ -14,17 +14,7 @@ Currently, I'm working on several exciting projects and always open to collabora
 - 🗄️ **Databases**: MySQL
 - ⚙️ **Other**: REST APIs, Cron, Git, GitHub
 
-#### **Currently Exploring**
-- 🛠️ **Frontend Frameworks**: ReactJS, VueJS
-- 🎨 **Styling**: TailwindCSS
-- 📂 **Databases**: MongoDB, PostgreSQL, Redis
-- 🚀 **DevOps & Deployment**: Docker
-- 🔥 **Mobile & Web Backend Services**: Firebase
-- 💻 **Programming Enhancements**: TypeScript
-- 📡 **APIs**: GraphQL
-
 <!--
-
 #### **Currently Exploring**
 - 🛠️ **Frontend Frameworks**: ReactJS, VueJS, Svelte
 - 🎨 **Styling**: TailwindCSS
