@@ -9,10 +9,34 @@ Currently, I'm working on several exciting projects and always open to collabora
 
 ### Skills & Technologies
 #### **Core Skills**
-- 🖥️ **Languages**: PHP, JavaScript, Dart, HTML, XML, JSON
-- 🔧 **Frameworks & Tools**: Laravel, Flutter, jQuery, Bootstrap, WordPress
-- 🗄️ **Databases**: MySQL
-- ⚙️ **Other**: REST APIs, Cron, Git, GitHub
+- 🖥️ **Languages**:
+
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=XML&logoColor=FFFFFF)
+  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=FFFFFF)
+
+- 🔧 **Frameworks & Tools**:
+
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=FFFFFF)
+
+- 🗄️ **Databases**: 
+
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+- ⚙️ **Other**:
+  
+  ![Cron](https://img.shields.io/badge/CRON-2C8C2C?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+  ![RestApi](https://img.shields.io/badge/REST%20API-0078D7?style=for-the-badge&logo=api&logoColor=FFFFFF)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+  ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+
 
 <!--
 #### **Currently Exploring**
