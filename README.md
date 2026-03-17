@@ -76,3 +76,6 @@ Currently, I'm working on several exciting projects and always open to collabora
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats-xspider7s-projects.vercel.app/api/top-langs/?username=jvmvl&layout=donut)](https://github.com/jvmvl/github-readme-stats)
+
+### Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jvmvl&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
